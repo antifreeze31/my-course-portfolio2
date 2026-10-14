@@ -16,3 +16,5 @@ Welcome to my academic portfolio for CEP!
 
 ## Projects
 *This section will be updated as I complete assignments*
+
+## Form Study Goal With Classmates
